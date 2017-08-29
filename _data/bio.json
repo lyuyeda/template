@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://lyuyeda.github.io/images/logan.jpg",
     "email": "luyeda6@hawaii.edu",
-    "phone": "808-799-7807",
+    "phone": "",
     "website": "https://lyuyeda.github.io",
     "summary": "I am studying for a B.S. in Computer Science and Mathematics in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Logan Uyeda",
+        "url": "https://www.linkedin.com/in/logan-uyeda-3ba752146/"
       }
     ]
   },
@@ -74,12 +74,32 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-22",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 311",
+        "ICS 314"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Mathematics (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2016-08-22",
+      "endDate": "Present",
+      "gpa": "4.0",
+      "courses": [
+        "MATH 253A",
+        "MATH 311",
+        "MATH 321"
       ]
     }
   ],
