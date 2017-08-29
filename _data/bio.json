@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Logan Uyeda",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://techfolios.github.io/template/images/logan.jpg",
+    "email": "luyeda6@hawaii.edu",
+    "phone": "808-799-7807",
+    "website": "https://lyuyeda.github.io",
+    "summary": "I am studying for a B.S. in Computer Science and Mathematics in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
