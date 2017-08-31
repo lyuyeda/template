@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/cyberstart-logo.png
 title: Sans CyberStart CTF
 permalink: projects/cyberstart
 date: 2017
