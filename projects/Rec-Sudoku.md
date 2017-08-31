@@ -10,3 +10,5 @@ labels:
   - Recursion
 summary: A simple program for recursively solving a hexadecimal sudoku puzzle
 ---
+
+Source: <a href="https://github.com/lyuyeda/HexSudoku"><i class="large github icon"></i>HexSudoku</a>
