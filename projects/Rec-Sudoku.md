@@ -11,4 +11,6 @@ labels:
 summary: A simple program for recursively solving a hexadecimal sudoku puzzle
 ---
 
+<img class="ui large right spaced image" src="../images/recsudoku.png">
+
 Source: <a href="https://github.com/lyuyeda/HexSudoku"><i class="large github icon"></i>HexSudoku</a>
