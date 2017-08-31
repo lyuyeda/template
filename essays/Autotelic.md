@@ -16,6 +16,6 @@ Much like looking up a word that means "for it's own sake," or more properly, "a
 
 So I guess the big question that leaves is, "Why?  What is so motivating about computer science?"  I love computer science in the same way I love math and CTFs and other forms of puzzle, the joy of struggling against a difficult problem for hours on end, the beauty of an elegant proof, the ever-motivating frustration of running into a wall, all of it is just... wonderful.
 
-<img class="ui medium left floated image" src="../images/fixing-problems.png">
+<img class="ui medium left floated image" src="../images/fixing_problems.png">
 
 Stuff
