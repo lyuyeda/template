@@ -9,5 +9,5 @@ labels:
   - Capture the Flag
   - Web Security
   - Cryptography
-summary: I participated in the 2017 Sans CyberStart challenge.
+summary: I was a participant in the 2017 Sans CyberStart challenge.
 ---
