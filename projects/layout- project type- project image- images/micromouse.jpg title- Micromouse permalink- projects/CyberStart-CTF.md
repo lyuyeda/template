@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+//image: images/<image>.jpg
 title: Sans CyberStart CTF
 permalink: projects/cyberstart
 date: 2017
@@ -11,5 +11,3 @@ labels:
   - Cryptography
 summary: I participated in the 2017 Sans CyberStart challenge.
 ---
-
-Stuff.
