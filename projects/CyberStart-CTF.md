@@ -13,3 +13,5 @@ summary: I was a participant in the 2017 SANS CyberStart challenge.
 ---
 
 Read More: <a href="https://www.sans.org/CyberStartUS"><i class="large Id Card icon"></i>SANS CyberStart</a>
+Read More: <a href="https://www.sans.org/CyberStartUS"><i class="large Id Badge icon"></i>SANS CyberStart</a>
+Read More: <a href="https://www.sans.org/CyberStartUS"><i class="large User Circle icon"></i>SANS CyberStart</a>
