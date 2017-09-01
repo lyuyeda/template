@@ -20,4 +20,4 @@ CyberStart was an individual competition, though collaboration did occur.  <a hr
 
 The CyberStart challenge, while not granting a deep understanding in any one subject, introduced a number of topics, from the command line, to hashes, python, steganography, cross-site scripting, injection attacks, and more.  I can't claim it made me an expert in any of these, but it has granted me a passing familiarity with their workings, a broader perspective, and larger toolset.
 
-Read More: <a href="https://www.sans.org/CyberStartUS"><i class="id card outline icon"></i>SANS CyberStart</a>
+Read More: <a href="https://www.sans.org/CyberStartUS"><i class="spy icon"></i>SANS CyberStart</a>
