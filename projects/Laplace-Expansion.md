@@ -21,4 +21,4 @@ While I held responsibility for the first draft of this project, Joshua and Jare
 
 There is frequently more than one way to accomplish a task, the trick is knowing what to use when.  When talking about large matrices, it can be hard to keep track of all the individual permutations as is required by the standard definition.  Laplace would require less code and be easier to adapt to any size matrix should one choose to automate the process.  On medium sized matrices, the Laplace method can allow one to create several smaller matrices to which a simple formula may be applied.  Longform equations work well for smaller matrices, but grow out of hand by the 4 by 4 size.
 
-Paper: <a href="https://docs.google.com/document/d/1xei5mYIneCADmh33TDhonANqa1dTRRN7YIY5BDkuf1A/edit?usp=sharing"><i class="large File Word Outline icon"></i>Laplace</a>
+Paper: <a href="https://docs.google.com/document/d/1xei5mYIneCADmh33TDhonANqa1dTRRN7YIY5BDkuf1A/edit?usp=sharing"><i class="file word outline icon"></i>Laplace</a>
