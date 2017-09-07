@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: HOW TO: Word Good
+title: HOW TO Word Good
 date: 2017-09-05
 labels:
   - Smart Questions
