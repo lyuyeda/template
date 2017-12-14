@@ -6,7 +6,7 @@
     "email": "luyeda6@hawaii.edu",
     "phone": "",
     "website": "https://lyuyeda.github.io",
-    "summary": "I am studying for a B.S. in Computer Science and Mathematics in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science and Mathematics in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "96821",
@@ -56,6 +56,7 @@
       "level": "",
       "keywords": [
         "C",
+        "C++",
         "HTML/CSS",
         "Java",
         "Javascript",
@@ -70,6 +71,8 @@
         "Git/GitHub",
         "IntelliJ IDEA",
         "LaTeX",
+        "Meteor",
+        "MongoDB",
         "Ubuntu",
         "Windows"
       ]
@@ -78,7 +81,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-08-22",
       "endDate": "Present",
@@ -95,7 +98,7 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Mathematics (expected Spring, 2022)",
+      "area": "Mathematics (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-08-22",
       "endDate": "Present",

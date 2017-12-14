@@ -9,7 +9,7 @@ labels:
   - Java
   - Sudoku
   - Recursion
-summary: A simple program for recursively solving a hexadecimal sudoku puzzle
+summary: A simple program for recursively solving hexadecimal sudoku puzzles.
 ---
 
 <img class="ui large right spaced image" src="../images/recsudoku.png">
