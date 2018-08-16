@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "Logan Uyeda",
-        "url": "https://www.linkedin.com/in/logan-uyeda-3ba752146/"
+        "url": "https://www.linkedin.com/in/logan-u-3ba752146/"
       }
     ]
   },
@@ -31,7 +31,6 @@
     {
       "name": "CTF competitions",
       "keywords": [
-        "capture the flag"
       ]
     },
     {
@@ -139,9 +138,15 @@
   "awards": [
     {
       "title": "UH Chancelor's Scholarship",
-      "date": "2016-Present",
+      "date": "2016-2020",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum and maintain a minimum overall GPA of 3.5."
+    },
+    {
+      "title": "College of Natural Sciences Achievement Scholarship",
+      "date": "2018-2019",
+      "awarder": "College of Natural Sciences",
+      "summary": "A one year scholarship awarded by the College of Natural Sciences based on outstanding academic performance."
     }
   ],
   "references": [
